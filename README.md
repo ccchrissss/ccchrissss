@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A full-stack software engineer in Southern California, USA.</h3>  
+<h3 align="center">A full-stack software engineer in San Diego, CA</h3>  
 &nbsp;  
 &nbsp;  
 - 👨‍💻 All of my projects are available at [chrisnelson.onrender.com](chrisnelson.onrender.com)
