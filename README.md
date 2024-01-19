@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://chrisnelson.onrender.com">chrisnelson.onrender.com</a>
 
-- 💬 Ask me about **freelancing as a dev in 2023**
+- 💬 Ask me about **freelancing as a dev in 2024**
 
 - 📫 How to reach me **chrisnelson7791@gmail.com**
 
