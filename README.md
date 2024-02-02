@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack software engineer in San Diego, CA</h3>  
 &nbsp;  
 &nbsp;  
-- 🔧 I'm currently building a Meal Plan and Grocery List app called Munchmap
+- 🔧 I'm currently building a Meal Plan and Grocery List app called Munch Map
 
 - 👨‍💻 All of my projects are available at <a href="https://chrisnelson.onrender.com">chrisnelson.onrender.com</a>
 
