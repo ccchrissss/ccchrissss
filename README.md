@@ -4,7 +4,7 @@
 &nbsp;  
 - 🔧 I'm currently building a music tab converter for the kalimba called Kalimba Converter
 
-- 👨‍💻 All of my projects are available at <a href="https://chrisnelson.onrender.com">chrisnelson.onrender.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://chrisnelson.netlify.app">chrisnelson.netlify.app</a>
 
 - 💬 Ask me about **freelancing as a dev in 2024**
 
