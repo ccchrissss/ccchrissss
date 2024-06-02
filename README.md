@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **freelancing as a dev in 2024**
 
-- 📫 How to reach me **chrisnelson7791@gmail.com**
+- 📫 Reach me at **chrisnelson7791@gmail.com**
 
 - 🌊 Fun fact **I like to surf!**
 
