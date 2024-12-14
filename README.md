@@ -2,6 +2,7 @@
 <h3 align="center">A full-stack software engineer in San Diego, CA</h3>  
 &nbsp;  
 &nbsp;  
+
 - 🔧 I'm currently building an app that helps surfers train their breathhold on land
 
 - 👨‍💻 All of my projects are available at <a href="https://chrisnelson.netlify.app">chrisnelson.netlify.app</a>
@@ -10,8 +11,8 @@
 
 - 📫 Reach me at **chrisnelson7791@gmail.com**
 
-- 😁 Two things I like to do outside of programming:
- 🌊**surf**
+- 😁 Two things I like to do outside of programming:  
+ 🌊**surf**  
  🚗**work on cars**
 
 <h3 align="left">Connect with me:</h3>  
