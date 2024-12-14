@@ -12,8 +12,8 @@
 - 📫 Reach me at **chrisnelson7791@gmail.com**
 
 - 😁 Two things I like to do outside of programming:  
- 🌊**surf**  
- 🚗**work on cars**
+ 🌊 **surf**  
+ 🚗 **work on cars**
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
