@@ -5,7 +5,7 @@
 
 - 🔧 I'm currently building an app that helps surfers train their breathhold on land
 
-- 👨‍💻 All of my projects are available at <a href="https://chrisnelson.netlify.app">chrisnelson.netlify.app</a>
+- 👨‍💻 A selection of my projects are available at <a href="https://cpnelson.com">cpnelson.com</a>
 
 - 💬 Ask me about **freelancing as a dev**
 
