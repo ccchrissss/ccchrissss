@@ -3,17 +3,19 @@
 &nbsp;  
 &nbsp;  
 
-- 🔧 I'm currently building an app that helps surfers train their breathhold on land
+🔧 I'm currently building an app that displays ski resort snowfall conditions on a sleek countertop display
 
-- 👨‍💻 A selection of my projects are available at <a href="https://cpnelson.com">cpnelson.com</a>
+👨‍💻 A selection of my projects are available at <a href="https://cpnelson.com">cpnelson.com</a>
 
-- 💬 Ask me about **freelancing as a dev**
+💬 Ask me about **freelancing as a dev**
 
-- 📫 Reach me at **chrisnelson7791@gmail.com**
+📫 Reach me at **chrisnelson7791@gmail.com**
 
-- 😁 Two things I like to do outside of programming:
-    - 🌊 **Surf**  
-    - 🚗 **Work on cars**
+😁 Two things I like to do outside of programming:
+
+  &emsp;&emsp;🌊 **Surf**  
+    
+  &emsp;&emsp;🚗 **Work on cars**
 
 
 <h3 align="left">Connect with me:</h3>  
